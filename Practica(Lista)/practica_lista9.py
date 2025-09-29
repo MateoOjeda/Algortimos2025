@@ -215,7 +215,7 @@ for nota in lista_notas:
 
 for alumno in lista_alumnos:
     if alumno["legajo"] in legajo_2020:
-        print(f"- {alumno["nombre"]} {alumno{"apellido"}} (Legajo: {alumno["legajo"]})")
+        print(f"- {alumno["nombre"]} {alumno["apellido"]} (Legajo: {alumno["legajo"]})")
 
 print("-----------------------------------------------------------")  
 
